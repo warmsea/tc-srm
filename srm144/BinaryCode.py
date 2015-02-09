@@ -1,5 +1,8 @@
-"""SRM 144 Div 1 Problem 1, Div 2 Problem 2
-Problem Statement: http://community.topcoder.com/stat?c=problem_statement&pm=1704
+"""
+http://community.topcoder.com/stat?c=problem_statement&pm=1704
+
+Single Round Match 144 Round 1 - Division I, Level One
+Single Round Match 144 Round 1 - Division II, Level Two
 """
 
 

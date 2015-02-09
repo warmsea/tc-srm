@@ -1,5 +1,7 @@
-"""SRM 144 Div 1 Problem 2
-Problem statement: http://community.topcoder.com/stat?c=problem_statement&pm=1659
+"""
+http://community.topcoder.com/stat?c=problem_statement&pm=1659
+
+Single Round Match 144 Round 1 - Division I, Level Two
 """
 from operator import mul
 
